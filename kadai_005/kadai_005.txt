@@ -9,15 +9,8 @@ PS C:\Users\pg-ti\Documents\Git\git_challenge> git add  C:\Users\pg-ti\Documents
 PS C:\Users\pg-ti\Documents\Git\git_challenge> git commit -m "second"
 [main 0138eff] second
  1 file changed, 2 insertions(+), 1 deletion(-)
-PS C:\Users\pg-ti\Documents\Git\git_challenge> git log
-commit 0138eff8514ac327e3d3130a8cb2ff3daf9a0d55 (HEAD -> main)
-Author: torabappu <torabappu@gmail.com>
-Date:   Sat Aug 3 16:18:58 2024 +0900
-
-    second
-
-commit 3991eb74e36546f286c5b808b3ad3515a6fa5a7f
-Author: torabappu <torabappu@gmail.com>
-Date:   Sat Aug 3 16:18:16 2024 +0900
-
-    first
+PS C:\Users\pg-ti\Documents\Git\git_challenge> git log --oneline                              
+3b2bfe1 (HEAD -> main, origin/main) kadaituika
+0138eff second
+3991eb7 first
+78fc541         new file:   hello_world.txt
