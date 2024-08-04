@@ -1,0 +1,73 @@
+[1mdiff --git a/kadai_007/kadai_007.ipynb b/kadai_007/kadai_007.ipynb[m
+[1mnew file mode 100644[m
+[1mindex 0000000..bc59431[m
+[1m--- /dev/null[m
+[1m+++ b/kadai_007/kadai_007.ipynb[m
+[36m@@ -0,0 +1,66 @@[m
+[32m+[m[32m{[m
+[32m+[m[32m  "nbformat": 4,[m
+[32m+[m[32m  "nbformat_minor": 0,[m
+[32m+[m[32m  "metadata": {[m
+[32m+[m[32m    "colab": {[m
+[32m+[m[32m      "provenance": [][m
+[32m+[m[32m    },[m
+[32m+[m[32m    "kernelspec": {[m
+[32m+[m[32m      "name": "python3",[m
+[32m+[m[32m      "display_name": "Python 3"[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "language_info": {[m
+[32m+[m[32m      "name": "python"[m
+[32m+[m[32m    }[m
+[32m+[m[32m  },[m
+[32m+[m[32m  "cells": [[m
+[32m+[m[32m    {[m
+[32m+[m[32m      "cell_type": "code",[m
+[32m+[m[32m      "execution_count": 1,[m
+[32m+[m[32m      "metadata": {[m
+[32m+[m[32m        "colab": {[m
+[32m+[m[32m          "base_uri": "https://localhost:8080/"[m
+[32m+[m[32m        },[m
+[32m+[m[32m        "id": "KIk6FjT8PC6p",[m
+[32m+[m[32m        "outputId": "df001860-c8d1-4d99-c1b9-4680fd5746ff"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "outputs": [[m
+[32m+[m[32m        {[m
+[32m+[m[32m          "output_type": "stream",[m
+[32m+[m[32m          "name": "stdout",[m
+[32m+[m[32m          "text": [[m
+[32m+[m[32m            "水曜日は晴れです\n"[m
+[32m+[m[32m          ][m
+[32m+[m[32m        }[m
+[32m+[m[32m      ],[m
+[32m+[m[32m      "source": [[m
+[32m+[m[32m        "array = [\"月曜日は晴れです\",\"火曜日は雨です\",\"水曜日は晴れです\",\"木曜日は晴れです\",\"金曜日は曇りです\",\"土曜日は曇りのち雨です\",\"日曜日は雷雨です\"]\n",[m
+[32m+[m[32m        "print(array[2])"[m
+[32m+[m[32m      ][m
+[32m+[m[32m    },[m
+[32m+[m[32m    {[m
+[32m+[m[32m      "cell_type": "code",[m
+[32m+[m[32m      "source": [[m
+[32m+[m[32m        "dictionary ={\"月曜日\":\"晴れ\",\"火曜日\":\"雨\",\"水曜日\":\"晴れ\",\"木曜日\":\"晴れ\",\"金曜日\":\"曇り\",\"土曜日\":\"曇りのち雨\",\"日曜日\":\"雷雨\"}\n",[m
+[32m+[m[32m        "print(dictionary[\"水曜日\"])"[m
+[32m+[m[32m      ],[m
+[32m+[m[32m      "metadata": {[m
+[32m+[m[32m        "colab": {[m
+[32m+[m[32m          "base_uri": "https://localhost:8080/"[m
+[32m+[m[32m        },[m
+[32m+[m[32m        "id": "lbfv7n3xPfAG",[m
+[32m+[m[32m        "outputId": "a3572f92-17a0-43d2-feab-4440c41f7327"[m
+[32m+[m[32m      },[m
+[32m+[m[32m      "execution_count": 3,[m
+[32m+[m[32m      "outputs": [[m
+[32m+[m[32m        {[m
+[32m+[m[32m          "output_type": "stream",[m
+[32m+[m[32m          "name": "stdout",[m
+[32m+[m[32m          "text": [[m
+[32m+[m[32m            "晴れ\n"[m
+[32m+[m[32m          ][m
+[32m+[m[32m        }[m
+[32m+[m[32m      ][m
+[32m+[m[32m    }[m
+[32m+[m[32m  ][m
+[32m+[m[32m}[m
+\ No newline at end of file[m
