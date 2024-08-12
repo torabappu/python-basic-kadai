@@ -10,7 +10,7 @@ html {
 h1 {
     font-family: "Josefin Sans", sans-serif;
     font-size: 2rem;
-    line-height: 2.4em;
+    letter-spacing: 2.4em;
     text-shadow: 1px 1px 2px gray;
     border-bottom: solid 3px rgb(115, 115, 114);
 }
