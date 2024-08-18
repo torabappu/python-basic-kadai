@@ -4,7 +4,8 @@ body {
     margin: 0;
 }
 
-p {
+p,
+a {
     font-size: 20px;
 }
 
